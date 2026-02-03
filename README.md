@@ -1,4 +1,4 @@
-# SXC-Individual-Performance-Tracker
+# Performance-Report
 
 ### FLOW PROJECT
 
@@ -19,3 +19,27 @@
 | Komposisi KPI        | Radar / Spider chart |
 | Status KPI           | Progress bar         |
 | Summary cepat        | KPI Cards            |
+
+## Ide Lain
+
+Aku punya ide untuk individual report
+Karena all officer banyak banget, aku ingin buat kode program untuk membuat tabel automatis yang berisi hasil view secara cepat dengan filter per-Departemen.
+Dengan bentuk tabel seperti ini
+
+```csv
+Indicator, Points, Satisfaction Level
+Officers Role,,
+Officers Handover,,
+Officers Guideline,,
+Connection Hub,,
+Work Hub,,
+Officers Synergy,,
+Social Hub,,
+Social Harmony,,
+Officers Engagement,,
+Officers Performance,,
+Officers Development,,
+			
+Overall Score
+
+```
